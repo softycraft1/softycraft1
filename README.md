@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome to Softycraft
+
+## We are start to ready build in a startup company
